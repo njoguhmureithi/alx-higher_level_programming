@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-    """ module documentation. """
+""" module documentation. """
+
 
 class Square:
     """Represents a square.
