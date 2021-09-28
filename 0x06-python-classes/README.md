@@ -14,3 +14,4 @@ Files | Description
 [5-square.py](https://github.com/njoguhmureithi/alx-higher_level_programming/blob/main/0x06-python-classes/5-square.py) | Python class Square that defines a square based on the previous one
 [6-square.py](https://github.com/njoguhmureithi/alx-higher_level_programming/blob/main/0x06-python-classes/6-square.py) | Python class Square that defines a square based on the previous one
 [100-singly_linked_list.py](https://github.com/njoguhmureithi/alx-higher_level_programming/blob/main/0x06-python-classes/100-singly_linked_list.py) | Python class Node that defines a node of a singly linked list.
+[101-square.py](https://github.com/njoguhmureithi/alx-higher_level_programming/blob/main/0x06-python-classes/101-square.py) | The Python class Square that defines a square based on 6-square.py
