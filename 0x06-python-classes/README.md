@@ -11,3 +11,4 @@ Files | Description
 [2-square.py](https://github.com/njoguhmureithi/alx-higher_level_programming/blob/main/0x06-python-classes/2-square.py) | Python class Square that defines a square based on the previous one
 [3-square.py](https://github.com/njoguhmureithi/alx-higher_level_programming/edit/main/0x06-python-classes/3-square.py) |  Python class Square that defines a square based on the previous one
 [4-square.py](https://github.com/njoguhmureithi/alx-higher_level_programming/blob/main/0x06-python-classes/4-square.py) | Python class Square that defines a square based on the previous one
+[5-square.py](https://github.com/njoguhmureithi/alx-higher_level_programming/blob/main/0x06-python-classes/5-square.py) | Python class Square that defines a square based on the previous one
